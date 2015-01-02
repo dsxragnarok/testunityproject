@@ -18,8 +18,8 @@ public class SomeRandomeScript : MonoBehaviour {
 	void FixedUpdate() {
 		aNumber += 1;
 
-		if (aNumber % 20 == 0) {
-			Debug.Log("Ya dude we got 20");
+		if (aNumber % 10 == 0) {
+			Debug.Log("Ya dude we got 10");
 		}
 
 	}

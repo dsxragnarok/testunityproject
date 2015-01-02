@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 165031690f2084e4ab229b78a0746fc4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: featherJointA
+    100004: featherJointA 1
+    100006: featherJointA 10
+    100008: featherJointA 11
+    100010: featherJointA 12
+    100012: featherJointA 13
+    100014: featherJointA 14
+    100016: featherJointA 15
+    100018: featherJointA 16
+    100020: featherJointA 17
+    100022: featherJointA 18
+    100024: featherJointA 19
+    100026: featherJointA 2
+    100028: featherJointA 20
+    100030: featherJointA 21
+    100032: featherJointA 22
+    100034: featherJointA 23
+    100036: featherJointA 24
+    100038: featherJointA 25
+    100040: featherJointA 26
+    100042: featherJointA 27
+    100044: featherJointA 28
+    100046: featherJointA 29
+    100048: featherJointA 3
+    100050: featherJointA 4
+    100052: featherJointA 5
+    100054: featherJointA 6
+    100056: featherJointA 7
+    100058: featherJointA 8
+    100060: featherJointA 9
+    100062: featherJointB
+    100064: featherJointB 1
+    100066: featherJointB 10
+    100068: featherJointB 11
+    100070: featherJointB 12
+    100072: featherJointB 13
+    100074: featherJointB 14
+    100076: featherJointB 15
+    100078: featherJointB 16
+    100080: featherJointB 17
+    100082: featherJointB 18
+    100084: featherJointB 19
+    100086: featherJointB 2
+    100088: featherJointB 20
+    100090: featherJointB 21
+    100092: featherJointB 22
+    100094: featherJointB 23
+    100096: featherJointB 24
+    100098: featherJointB 25
+    100100: featherJointB 26
+    100102: featherJointB 27
+    100104: featherJointB 28
+    100106: featherJointB 29
+    100108: featherJointB 3
+    100110: featherJointB 4
+    100112: featherJointB 5
+    100114: featherJointB 6
+    100116: featherJointB 7
+    100118: featherJointB 8
+    100120: featherJointB 9
+    100122: featherJointC
+    100124: featherJointC 1
+    100126: featherJointC 10
+    100128: featherJointC 11
+    100130: featherJointC 12
+    100132: featherJointC 13
+    100134: featherJointC 14
+    100136: featherJointC 15
+    100138: featherJointC 16
+    100140: featherJointC 17
+    100142: featherJointC 18
+    100144: featherJointC 19
+    100146: featherJointC 2
+    100148: featherJointC 20
+    100150: featherJointC 21
+    100152: featherJointC 22
+    100154: featherJointC 23
+    100156: featherJointC 24
+    100158: featherJointC 25
+    100160: featherJointC 26
+    100162: featherJointC 27
+    100164: featherJointC 28
+    100166: featherJointC 29
+    100168: featherJointC 3
+    100170: featherJointC 4
+    100172: featherJointC 5
+    100174: featherJointC 6
+    100176: featherJointC 7
+    100178: featherJointC 8
+    100180: featherJointC 9
+    100182: featherJointRoot1
+    100184: featherJointRoot1 1
+    100186: featherJointRoot1 2
+    100188: featherJointRoot1 3
+    100190: featherJointRoot1 4
+    100192: featherJointRoot1 5
+    100194: featherJointRoot2
+    100196: featherJointRoot2 1
+    100198: featherJointRoot2 2
+    100200: featherJointRoot2 3
+    100202: featherJointRoot2 4
+    100204: featherJointRoot2 5
+    100206: featherJointRoot3
+    100208: featherJointRoot3 1
+    100210: featherJointRoot3 2
+    100212: featherJointRoot3 3
+    100214: featherJointRoot3 4
+    100216: featherJointRoot3 5
+    100218: featherJointRoot4
+    100220: featherJointRoot4 1
+    100222: featherJointRoot4 2
+    100224: featherJointRoot4 3
+    100226: featherJointRoot4 4
+    100228: featherJointRoot4 5
+    100230: featherJointRoot5
+    100232: featherJointRoot5 1
+    100234: featherJointRoot5 2
+    100236: featherJointRoot5 3
+    100238: featherJointRoot5 4
+    100240: featherJointRoot5 5
+    100242: groupBeak
+    100244: groupBird
+    100246: groupHead
+    100248: groupLeg1
+    100250: groupLeg2
+    100252: groupTailFeathers
+    100254: ikHandleLeftLeg
+    100256: ikHandleRightLeg
+    100258: jointArmLimbA
+    100260: jointArmLimbA 1
+    100262: jointArmLimbB
+    100264: jointArmLimbB 1
+    100266: jointArmLimbLeft
+    100268: jointArmLimbRight
+    100270: jointBeakBottom
+    100272: jointBeakTop
+    100274: jointEntireBeak
+    100276: jointFeatherA
+    100278: jointFeatherA 1
+    100280: jointFeatherA 2
+    100282: jointFeatherB
+    100284: jointFeatherB 1
+    100286: jointFeatherB 2
+    100288: jointFeatherTailRoot1
+    100290: jointFeatherTailRoot2
+    100292: jointFeatherTailRoot3
+    100294: jointKnee
+    100296: jointKnee 1
+    100298: jointLegLeft
+    100300: jointLegRight
+    100302: jointNeck
+    100304: jointRoot
+    100306: jointTalonA
+    100308: jointTalonA 1
+    100310: jointTalonA 2
+    100312: jointTalonA 3
+    100314: jointTalonA 4
+    100316: jointTalonA 5
+    100318: jointTalonB
+    100320: jointTalonB 1
+    100322: jointTalonB 2
+    100324: jointTalonB 3
+    100326: jointTalonB 4
+    100328: jointTalonB 5
+    100330: jointTalonLeft
+    100332: jointTalonLeft 1
+    100334: jointTalonMiddle
+    100336: jointTalonMiddle 1
+    100338: jointTalonRight
+    100340: jointTalonRight 1
+    100342: pAnkle1
+    100344: pAnkle1 1
+    100346: pArmLeft
+    100348: pArmRight
+    100350: pBeak
+    100352: pBeakBottom
+    100354: pBeakBottom 1
+    100356: pBeakTop
+    100358: pBody
+    100360: pFeather1
+    100362: pFeather1 1
+    100364: pFeather10
+    100366: pFeather10 1
+    100368: pFeather11
+    100370: pFeather11 1
+    100372: pFeather12
+    100374: pFeather12 1
+    100376: pFeather13
+    100378: pFeather13 1
+    100380: pFeather14
+    100382: pFeather14 1
+    100384: pFeather15
+    100386: pFeather15 1
+    100388: pFeather2
+    100390: pFeather2 1
+    100392: pFeather3
+    100394: pFeather3 1
+    100396: pFeather4
+    100398: pFeather4 1
+    100400: pFeather5
+    100402: pFeather5 1
+    100404: pFeather6
+    100406: pFeather6 1
+    100408: pFeather7
+    100410: pFeather7 1
+    100412: pFeather8
+    100414: pFeather8 1
+    100416: pFeather9
+    100418: pFeather9 1
+    100420: pFeatherTail1
+    100422: pFeatherTail2
+    100424: pFeatherTail3
+    100426: pHead
+    100428: pLegLimb1
+    100430: pLegLimb1 1
+    100432: pTalonLeft1
+    100434: pTalonLeft1 1
+    100436: pTalonMid1
+    100438: pTalonMid1 1
+    100440: pTalonRight1
+    100442: pTalonRight1 1
+    100444: transform1
+    100446: transform2
+    100448: transform3
+    400000: //RootNode
+    400002: featherJointA
+    400004: featherJointA 1
+    400006: featherJointA 10
+    400008: featherJointA 11
+    400010: featherJointA 12
+    400012: featherJointA 13
+    400014: featherJointA 14
+    400016: featherJointA 15
+    400018: featherJointA 16
+    400020: featherJointA 17
+    400022: featherJointA 18
+    400024: featherJointA 19
+    400026: featherJointA 2
+    400028: featherJointA 20
+    400030: featherJointA 21
+    400032: featherJointA 22
+    400034: featherJointA 23
+    400036: featherJointA 24
+    400038: featherJointA 25
+    400040: featherJointA 26
+    400042: featherJointA 27
+    400044: featherJointA 28
+    400046: featherJointA 29
+    400048: featherJointA 3
+    400050: featherJointA 4
+    400052: featherJointA 5
+    400054: featherJointA 6
+    400056: featherJointA 7
+    400058: featherJointA 8
+    400060: featherJointA 9
+    400062: featherJointB
+    400064: featherJointB 1
+    400066: featherJointB 10
+    400068: featherJointB 11
+    400070: featherJointB 12
+    400072: featherJointB 13
+    400074: featherJointB 14
+    400076: featherJointB 15
+    400078: featherJointB 16
+    400080: featherJointB 17
+    400082: featherJointB 18
+    400084: featherJointB 19
+    400086: featherJointB 2
+    400088: featherJointB 20
+    400090: featherJointB 21
+    400092: featherJointB 22
+    400094: featherJointB 23
+    400096: featherJointB 24
+    400098: featherJointB 25
+    400100: featherJointB 26
+    400102: featherJointB 27
+    400104: featherJointB 28
+    400106: featherJointB 29
+    400108: featherJointB 3
+    400110: featherJointB 4
+    400112: featherJointB 5
+    400114: featherJointB 6
+    400116: featherJointB 7
+    400118: featherJointB 8
+    400120: featherJointB 9
+    400122: featherJointC
+    400124: featherJointC 1
+    400126: featherJointC 10
+    400128: featherJointC 11
+    400130: featherJointC 12
+    400132: featherJointC 13
+    400134: featherJointC 14
+    400136: featherJointC 15
+    400138: featherJointC 16
+    400140: featherJointC 17
+    400142: featherJointC 18
+    400144: featherJointC 19
+    400146: featherJointC 2
+    400148: featherJointC 20
+    400150: featherJointC 21
+    400152: featherJointC 22
+    400154: featherJointC 23
+    400156: featherJointC 24
+    400158: featherJointC 25
+    400160: featherJointC 26
+    400162: featherJointC 27
+    400164: featherJointC 28
+    400166: featherJointC 29
+    400168: featherJointC 3
+    400170: featherJointC 4
+    400172: featherJointC 5
+    400174: featherJointC 6
+    400176: featherJointC 7
+    400178: featherJointC 8
+    400180: featherJointC 9
+    400182: featherJointRoot1
+    400184: featherJointRoot1 1
+    400186: featherJointRoot1 2
+    400188: featherJointRoot1 3
+    400190: featherJointRoot1 4
+    400192: featherJointRoot1 5
+    400194: featherJointRoot2
+    400196: featherJointRoot2 1
+    400198: featherJointRoot2 2
+    400200: featherJointRoot2 3
+    400202: featherJointRoot2 4
+    400204: featherJointRoot2 5
+    400206: featherJointRoot3
+    400208: featherJointRoot3 1
+    400210: featherJointRoot3 2
+    400212: featherJointRoot3 3
+    400214: featherJointRoot3 4
+    400216: featherJointRoot3 5
+    400218: featherJointRoot4
+    400220: featherJointRoot4 1
+    400222: featherJointRoot4 2
+    400224: featherJointRoot4 3
+    400226: featherJointRoot4 4
+    400228: featherJointRoot4 5
+    400230: featherJointRoot5
+    400232: featherJointRoot5 1
+    400234: featherJointRoot5 2
+    400236: featherJointRoot5 3
+    400238: featherJointRoot5 4
+    400240: featherJointRoot5 5
+    400242: groupBeak
+    400244: groupBird
+    400246: groupHead
+    400248: groupLeg1
+    400250: groupLeg2
+    400252: groupTailFeathers
+    400254: ikHandleLeftLeg
+    400256: ikHandleRightLeg
+    400258: jointArmLimbA
+    400260: jointArmLimbA 1
+    400262: jointArmLimbB
+    400264: jointArmLimbB 1
+    400266: jointArmLimbLeft
+    400268: jointArmLimbRight
+    400270: jointBeakBottom
+    400272: jointBeakTop
+    400274: jointEntireBeak
+    400276: jointFeatherA
+    400278: jointFeatherA 1
+    400280: jointFeatherA 2
+    400282: jointFeatherB
+    400284: jointFeatherB 1
+    400286: jointFeatherB 2
+    400288: jointFeatherTailRoot1
+    400290: jointFeatherTailRoot2
+    400292: jointFeatherTailRoot3
+    400294: jointKnee
+    400296: jointKnee 1
+    400298: jointLegLeft
+    400300: jointLegRight
+    400302: jointNeck
+    400304: jointRoot
+    400306: jointTalonA
+    400308: jointTalonA 1
+    400310: jointTalonA 2
+    400312: jointTalonA 3
+    400314: jointTalonA 4
+    400316: jointTalonA 5
+    400318: jointTalonB
+    400320: jointTalonB 1
+    400322: jointTalonB 2
+    400324: jointTalonB 3
+    400326: jointTalonB 4
+    400328: jointTalonB 5
+    400330: jointTalonLeft
+    400332: jointTalonLeft 1
+    400334: jointTalonMiddle
+    400336: jointTalonMiddle 1
+    400338: jointTalonRight
+    400340: jointTalonRight 1
+    400342: pAnkle1
+    400344: pAnkle1 1
+    400346: pArmLeft
+    400348: pArmRight
+    400350: pBeak
+    400352: pBeakBottom
+    400354: pBeakBottom 1
+    400356: pBeakTop
+    400358: pBody
+    400360: pFeather1
+    400362: pFeather1 1
+    400364: pFeather10
+    400366: pFeather10 1
+    400368: pFeather11
+    400370: pFeather11 1
+    400372: pFeather12
+    400374: pFeather12 1
+    400376: pFeather13
+    400378: pFeather13 1
+    400380: pFeather14
+    400382: pFeather14 1
+    400384: pFeather15
+    400386: pFeather15 1
+    400388: pFeather2
+    400390: pFeather2 1
+    400392: pFeather3
+    400394: pFeather3 1
+    400396: pFeather4
+    400398: pFeather4 1
+    400400: pFeather5
+    400402: pFeather5 1
+    400404: pFeather6
+    400406: pFeather6 1
+    400408: pFeather7
+    400410: pFeather7 1
+    400412: pFeather8
+    400414: pFeather8 1
+    400416: pFeather9
+    400418: pFeather9 1
+    400420: pFeatherTail1
+    400422: pFeatherTail2
+    400424: pFeatherTail3
+    400426: pHead
+    400428: pLegLimb1
+    400430: pLegLimb1 1
+    400432: pTalonLeft1
+    400434: pTalonLeft1 1
+    400436: pTalonMid1
+    400438: pTalonMid1 1
+    400440: pTalonRight1
+    400442: pTalonRight1 1
+    400444: transform1
+    400446: transform2
+    400448: transform3
+    4300000: pFeather1
+    4300002: pFeather10
+    4300004: pFeather11
+    4300006: pFeather12
+    4300008: pFeather13
+    4300010: pFeather14
+    4300012: pFeather15
+    4300014: pFeather2
+    4300016: pFeather3
+    4300018: pFeather4
+    4300020: pFeather5
+    4300022: pFeather6
+    4300024: pFeather7
+    4300026: pFeather8
+    4300028: pFeather9
+    4300030: pFeather1
+    4300032: pFeather10
+    4300034: pFeather11
+    4300036: pFeather12
+    4300038: pFeather13
+    4300040: pFeather14
+    4300042: pFeather15
+    4300044: pFeather2
+    4300046: pFeather3
+    4300048: pFeather4
+    4300050: pFeather5
+    4300052: pFeather6
+    4300054: pFeather7
+    4300056: pFeather8
+    4300058: pFeather9
+    4300060: pBody
+    4300062: pTalonRight1
+    4300064: pTalonLeft1
+    4300066: pTalonMid1
+    4300068: pAnkle1
+    4300070: pLegLimb1
+    4300072: pTalonRight1
+    4300074: pTalonLeft1
+    4300076: pTalonMid1
+    4300078: pAnkle1
+    4300080: pLegLimb1
+    4300082: pHead
+    4300084: pFeatherTail1
+    4300086: pFeatherTail3
+    4300088: pFeatherTail2
+    4300090: pBeakTop
+    4300092: pBeakBottom
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pAnkle1
+    13700002: pAnkle1 1
+    13700004: pBeakBottom
+    13700006: pBeakTop
+    13700008: pBody
+    13700010: pFeather1
+    13700012: pFeather1 1
+    13700014: pFeather10
+    13700016: pFeather10 1
+    13700018: pFeather11
+    13700020: pFeather11 1
+    13700022: pFeather12
+    13700024: pFeather12 1
+    13700026: pFeather13
+    13700028: pFeather13 1
+    13700030: pFeather14
+    13700032: pFeather14 1
+    13700034: pFeather15
+    13700036: pFeather15 1
+    13700038: pFeather2
+    13700040: pFeather2 1
+    13700042: pFeather3
+    13700044: pFeather3 1
+    13700046: pFeather4
+    13700048: pFeather4 1
+    13700050: pFeather5
+    13700052: pFeather5 1
+    13700054: pFeather6
+    13700056: pFeather6 1
+    13700058: pFeather7
+    13700060: pFeather7 1
+    13700062: pFeather8
+    13700064: pFeather8 1
+    13700066: pFeather9
+    13700068: pFeather9 1
+    13700070: pFeatherTail1
+    13700072: pFeatherTail2
+    13700074: pFeatherTail3
+    13700076: pHead
+    13700078: pLegLimb1
+    13700080: pLegLimb1 1
+    13700082: pTalonLeft1
+    13700084: pTalonLeft1 1
+    13700086: pTalonMid1
+    13700088: pTalonMid1 1
+    13700090: pTalonRight1
+    13700092: pTalonRight1 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
